@@ -6,3 +6,7 @@ Here is some more to show multiple edits.
 ## Subheader
 this was done on visual studio code lol
 one more edit
+
+
+## Local Development
+1. Open test.py in your command line
