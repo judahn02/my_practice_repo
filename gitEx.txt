@@ -11,3 +11,4 @@ This is a test file.
 "git config --global user.name "Judah Nava"" is to set up username
 "git config --global user.email judah.nava@go.mnstate.edu"
 "git config --list"
+"git remote add origin https://link..."
