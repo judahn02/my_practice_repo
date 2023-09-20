@@ -6,3 +6,8 @@ This is a test file.
 "git push origin master" is to upload to the github repository
 "git pull origin master" is to download from the github repository.
 "git log" shows the changes made to files and the repository
+
+
+"git config --global user.name "Judah Nava"" is to set up username
+"git config --global user.email judah.nava@go.mnstate.edu"
+"git config --list"
