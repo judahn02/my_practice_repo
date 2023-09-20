@@ -12,3 +12,5 @@ This is a test file.
 "git config --global user.email judah.nava@go.mnstate.edu"
 "git config --list"
 "git remote add origin https://link..."
+git push origin master
+"git config --global  credential.helper store"
