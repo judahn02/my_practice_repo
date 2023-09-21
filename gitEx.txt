@@ -3,6 +3,7 @@ This is a test file.
 "git status" is to see the status of files being tracked.
 "git add file.###" is to add file to tracking by git.
 "git commit -m "message"" is to add the edits to the git tracking
+"git commit -m "title" -m "message"" is a more descriptive way to commit.
 "git push origin master" is to upload to the github repository
 "git pull origin master" is to download from the github repository.
 "git log" shows the changes made to files and the repository
